@@ -1,4 +1,4 @@
-
+#Vinicius Salles Zaia
 with open("pablo.txt","r") as arquivo:
     pablo = arquivo.readlines()
 print('\n')
